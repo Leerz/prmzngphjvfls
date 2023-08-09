@@ -28,7 +28,7 @@ https://link.sthetix.info/hats
 
 ## WHY IS IT CALLED HATS ?
 
-Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)uper . Easy to remember, right?
+Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)igpatches . Easy to remember, right?
 
 ## WHAT IS SYSMMC / EMUMMC / STOCK
 
