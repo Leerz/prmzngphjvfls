@@ -10,15 +10,12 @@ Watch this : https://www.youtube.com/watch?v=jfJIVzeJSyE
 4. You will then boot to Hekate. Press launch and choose whatever environment you are going to load.
 
 
+## HOW TO UPDATE THE PACK AND UPDATE THE FIRMWARE 
 
-## HOW TO UPDATE THE PACK
-
-- Delete the previous files or just replace it with the new downloaded pack, as easy as that.
+- Please watch this guide : https://youtu.be/4jw4nyymWgc?si=VVgpM0ILa0C3O4f-
 
 ## HOW TO UPDATE THE CONSOLE FIRMWARE
 - Please watch this video https://youtu.be/W_OjR-yxfdY
-
-
 
 ## ABSOLUTE LINK
 
@@ -65,6 +62,17 @@ because launching OFW from the Launch menu is NOT the real stock, but semi-stock
 3. Press Y  to find the IP address of your console
 4. Open any FTP manager on your computer
 5. Connect to the IP address shown on your console on port 5000 with username/password: switch/switch
+
+## HOW TO INSTALL THE GAMES
+To install the games, please watch this guide : https://youtu.be/SEvtKeoIqS8?si=7ZDBNMKPS6S_goTy
+
+## HOW TO TRANSFER GAME SAVE DATA
+To do it, please watch this guide :https://youtu.be/HoyvuH2GU0Q?si=sAfQ_Q2axEvs1PuD
+
+## HOW TO UPGRADE THE SD CARD
+To upgrade the current SD card to a new one, please watch this guide : https://youtu.be/FnDsm18jQsM?si=knTP8D5uA6WIZQTv
+
+## HOW TO SETUP THE SD CARD FROM SCRATCH
 
 ## ERROR 2023-0011 SOLUTION
 
