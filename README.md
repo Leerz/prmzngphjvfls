@@ -66,20 +66,25 @@ because launching OFW from the Launch menu is NOT the real stock, but semi-stock
 ## HOW TO INSTALL THE GAMES
 To install the games, please watch this guide : https://youtu.be/SEvtKeoIqS8?si=7ZDBNMKPS6S_goTy
 
+
 ## HOW TO TRANSFER GAME SAVE DATA
 To do it, please watch this guide :https://youtu.be/HoyvuH2GU0Q?si=sAfQ_Q2axEvs1PuD
+
 
 ## HOW TO UPGRADE THE SD CARD
 To upgrade the current SD card to a new one, please watch this guide : https://youtu.be/FnDsm18jQsM?si=knTP8D5uA6WIZQTv
 
+
 ## HOW TO SETUP THE SD CARD FROM SCRATCH
+Please watch this guide : https://youtu.be/up_sjzKHFeU?si=Bb9yey67KynnEq4R
+
 
 ## ERROR 2023-0011 SOLUTION
-
 ![2023-0011](https://github.com/sthetix/HATS/blob/main/2023-0011.png)
 
 The HATS pack hides the console's serial number on all CFW modes. That is why if you launched the sysMMC or the emuMMC and tried to connect the console to eshop or update the games online, you will see this error code.
 To solve this issue, please boot to the OFW mode https://github.com/sthetix/HATS#how-to-boot-to-the-real-stock-ofw-from-hekate
+
 
 ## HOW TO CONNECT THE CONSOLE TO THE NINTENDO SERVER WHILE RUNNING THE CFW MODE
 
