@@ -16,6 +16,7 @@ Watch this : https://www.youtube.com/watch?v=jfJIVzeJSyE
 - Please watch this guide : https://youtu.be/4jw4nyymWgc?si=VVgpM0ILa0C3O4f-
 
 ## HOW TO UPDATE THE CONSOLE FIRMWARE
+[![DAYBREAK](https://i3.ytimg.com/vi/W_OjR-yxfdY/maxresdefault.jpg)](https://www.youtube.com/watch?v=4jw4nyymWgc)
 - Please watch this video https://youtu.be/W_OjR-yxfdY
 
 ## HOW TO SETUP THE SD CARD FROM SCRATCH
