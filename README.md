@@ -74,11 +74,13 @@ because launching OFW from the Launch menu is NOT the real stock, but semi-stock
 To install the games, please watch this guide : https://youtu.be/SEvtKeoIqS8?si=7ZDBNMKPS6S_goTy
 
 
-## HOW TO TRANSFER GAME SAVE DATA
+## HOW TO TRANSFER GAME SAVE DATA TO ANOTHER CONSOLE / HOS
+[![TRANSFER SAVE DATA](https://i3.ytimg.com/vi/HoyvuH2GU0Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=HoyvuH2GU0Q)
 To do it, please watch this guide :https://youtu.be/HoyvuH2GU0Q?si=sAfQ_Q2axEvs1PuD
 
 
 ## HOW TO UPGRADE THE SD CARD
+[![UPGRADE THE SD CARD](https://i3.ytimg.com/vi/FnDsm18jQsM/maxresdefault.jpg)](https://www.youtube.com/watch?v=FnDsm18jQsM)
 To upgrade the current SD card to a new one, please watch this guide : https://youtu.be/FnDsm18jQsM?si=knTP8D5uA6WIZQTv
 
 
