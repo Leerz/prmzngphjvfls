@@ -11,7 +11,7 @@ Watch this : https://www.youtube.com/watch?v=jfJIVzeJSyE
 
 
 ## HOW TO UPDATE THE PACK AND UPDATE THE FIRMWARE
-![HATS AMS UPDATE](https://github.com/sthetix/HATS/blob/main/hatsams.webp)(https://youtu.be/4jw4nyymWgc?si=VVgpM0ILa0C3O4f-)
+[![HATS AMS UPDATE](https://github.com/sthetix/HATS/blob/main/hatsams.webp)](https://youtu.be/4jw4nyymWgc?si=VVgpM0ILa0C3O4f-)
 
 - Please watch this guide : https://youtu.be/4jw4nyymWgc?si=VVgpM0ILa0C3O4f-
 
