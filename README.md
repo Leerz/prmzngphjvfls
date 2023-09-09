@@ -17,6 +17,9 @@ Watch this : https://www.youtube.com/watch?v=jfJIVzeJSyE
 ## HOW TO UPDATE THE CONSOLE FIRMWARE
 - Please watch this video https://youtu.be/W_OjR-yxfdY
 
+## HOW TO SETUP THE SD CARD FROM SCRATCH
+Please watch this guide : https://youtu.be/up_sjzKHFeU?si=Bb9yey67KynnEq4R
+
 ## ABSOLUTE LINK
 
 Use this link to always download the updated pack
@@ -73,10 +76,6 @@ To do it, please watch this guide :https://youtu.be/HoyvuH2GU0Q?si=sAfQ_Q2axEvs1
 
 ## HOW TO UPGRADE THE SD CARD
 To upgrade the current SD card to a new one, please watch this guide : https://youtu.be/FnDsm18jQsM?si=knTP8D5uA6WIZQTv
-
-
-## HOW TO SETUP THE SD CARD FROM SCRATCH
-Please watch this guide : https://youtu.be/up_sjzKHFeU?si=Bb9yey67KynnEq4R
 
 
 ## ERROR 2023-0011 SOLUTION
