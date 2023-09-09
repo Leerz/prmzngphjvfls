@@ -20,6 +20,7 @@ Watch this : https://www.youtube.com/watch?v=jfJIVzeJSyE
 - Please watch this video https://youtu.be/W_OjR-yxfdY
 
 ## HOW TO SETUP THE SD CARD FROM SCRATCH
+[![SETUP FROM SCRATCH](https://i3.ytimg.com/vi/up_sjzKHFeU/maxresdefault.jpg)](https://www.youtube.com/watch?v=up_sjzKHFeU)
 Please watch this guide : https://youtu.be/up_sjzKHFeU?si=Bb9yey67KynnEq4R
 
 ## ABSOLUTE LINK
@@ -69,6 +70,7 @@ because launching OFW from the Launch menu is NOT the real stock, but semi-stock
 5. Connect to the IP address shown on your console on port 5000 with username/password: switch/switch
 
 ## HOW TO INSTALL THE GAMES
+[![DBI MTP](https://i3.ytimg.com/vi/SEvtKeoIqS8/maxresdefault.jpg)](https://www.youtube.com/watch?v=SEvtKeoIqS8)
 To install the games, please watch this guide : https://youtu.be/SEvtKeoIqS8?si=7ZDBNMKPS6S_goTy
 
 
