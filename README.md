@@ -113,7 +113,7 @@ To disable the DNS Mitm protection, please open the system_settings.ini file ins
 
 *add_defaults_to_dns_hosts = u8!0x1* to *; add_defaults_to_dns_hosts = u8!0x1*
 
-https://github.com/sthetix/HATS/blob/main/edit-lines-dns.gif
+![edit-lines-dns](https://github.com/sthetix/HATS/blob/main/edit-lines-dns.gif)
 
 ## HOW TO CREATE YOUR OWN HATS PACK
 
