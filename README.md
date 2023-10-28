@@ -84,17 +84,19 @@ To do it, please watch this guide :https://youtu.be/HoyvuH2GU0Q?si=sAfQ_Q2axEvs1
 To upgrade the current SD card to a new one, please watch this guide : https://youtu.be/FnDsm18jQsM?si=knTP8D5uA6WIZQTv
 
 
-## ERROR 2023-0011 SOLUTION
+## ERROR 2023-0011 , 2137-8007 , 2155-8007  SOLUTION
 ![2023-0011](https://github.com/sthetix/HATS/blob/main/2023-0011.png)
+![2137-8007](https://github.com/sthetix/HATS/blob/main/2137-8007.jpg)
+![2155-8007](https://github.com/sthetix/HATS/blob/main/2155-8007.jpg)
 
-The HATS pack hides the console's serial number on all CFW modes. That is why if you launched the sysMMC or the emuMMC and tried to connect the console to eshop or update the games online, you will see this error code.
+The HATS pack hides the console's serial number on all CFW modes and blocks all Nintendo servers with DNS Mitm method. That is why if you launched the sysMMC or the emuMMC and tried to connect the console to eshop or update the games online or try to log-in, you will see this error code.
 To solve this issue, please boot to the OFW mode https://github.com/sthetix/HATS#how-to-boot-to-the-real-stock-ofw-from-hekate
 
 
 ## HOW TO CONNECT THE CONSOLE TO THE NINTENDO SERVER WHILE RUNNING THE CFW MODE
 
-As mentioned, the HATS pack hides the console's serial number on all CFW modes to prevent your console from getting banned online if you accidentally / unintentionally installed pirated or illegal apps/games.
-However, if you insist on connecting the CFW modes to the Nintendo server, you must edit the exosphere.ini at the root of the SD card with a notepad.
+As mentioned, the HATS pack hides the console's serial number on all CFW modes and DNS Mitm method to prevent your console from getting banned online if you accidentally / unintentionally installed pirated or illegal apps/games.
+However, to connect the CFW modes to the Nintendo server, you must edit the exosphere.ini at the root of the SD card with a notepad.
 
 To connect the sysMMC to the Nintendo server, please edit
 
@@ -103,6 +105,13 @@ To connect the sysMMC to the Nintendo server, please edit
 To connect the emuMMC to the Nintendo server, please edit
 
 *blank_prodinfo_emummc=1 to blank_prodinfo_emummc=0*
+
+To disable the DNS Mitm protection, please open the system_settings.ini file inside the Atmosphere/Config folder. and edit these lines
+
+*enable_dns_mitm = u8!0x1 to enable_dns_mitm = u8!0x0*
+
+*add_defaults_to_dns_hosts = u8!0x1 to add_defaults_to_dns_hosts = u8!0x0*
+
 
 
 ## HOW TO CREATE YOUR OWN HATS PACK
