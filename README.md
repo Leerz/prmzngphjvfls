@@ -106,6 +106,8 @@ To connect the emuMMC to the Nintendo server, please edit
 
 *blank_prodinfo_emummc=1* to *blank_prodinfo_emummc=0*
 
+![edit-exosphere](https://github.com/sthetix/HATS/blob/main/edit-exosphere.gif)
+
 
 To disable the DNS Mitm protection, please open the system_settings.ini file inside the Atmosphere/Config folder and comment out these lines : (add ; in front of the line) 
 
