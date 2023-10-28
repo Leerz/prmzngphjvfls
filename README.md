@@ -96,7 +96,7 @@ To solve this issue, please boot to the OFW mode https://github.com/sthetix/HATS
 ## HOW TO CONNECT THE CONSOLE TO THE NINTENDO SERVER WHILE RUNNING THE CFW MODE
 
 As mentioned, the HATS pack hides the console's serial number on all CFW modes and DNS Mitm method to prevent your console from getting banned online if you accidentally / unintentionally installed pirated or illegal apps/games.
-However, to connect the CFW modes to the Nintendo server, you must edit the exosphere.ini at the root of the SD card with a notepad.
+However, to connect the CFW modes to the Nintendo server, you must edit the exosphere.ini at the root of the SD card with a notepad. Use this guide responsibly as it will expose your console for a possible ban.
 
 To connect the sysMMC to the Nintendo server, please edit
 
