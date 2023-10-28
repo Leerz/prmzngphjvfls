@@ -100,15 +100,16 @@ However, to connect the CFW modes to the Nintendo server, you must edit the exos
 
 To connect the sysMMC to the Nintendo server, please edit
 
-*blank_prodinfo_sysmmc=1 to blank_prodinfo_sysmmc=0*
+*blank_prodinfo_sysmmc=1* to *blank_prodinfo_sysmmc=0*
 
 To connect the emuMMC to the Nintendo server, please edit
 
-*blank_prodinfo_emummc=1 to blank_prodinfo_emummc=0*
+*blank_prodinfo_emummc=1* to *blank_prodinfo_emummc=0*
 
-To disable the DNS Mitm protection, please open the system_settings.ini file inside the Atmosphere/Config folder, and comment out these lines
 
-*enable_dns_mitm = u8!0x1* to ; *enable_dns_mitm = u8!0x1*
+To disable the DNS Mitm protection, please open the system_settings.ini file inside the Atmosphere/Config folder and comment out these lines : (add ; in front of the line) 
+
+*enable_dns_mitm = u8!0x1* to *; enable_dns_mitm = u8!0x1*
 
 *add_defaults_to_dns_hosts = u8!0x1* to *; add_defaults_to_dns_hosts = u8!0x1*
 
