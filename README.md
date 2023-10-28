@@ -108,9 +108,9 @@ To connect the emuMMC to the Nintendo server, please edit
 
 To disable the DNS Mitm protection, please open the system_settings.ini file inside the Atmosphere/Config folder, and comment out these lines
 
-*enable_dns_mitm = u8!0x1 to ; enable_dns_mitm = u8!0x0*
+*enable_dns_mitm = u8!0x1* to ; *enable_dns_mitm = u8!0x1*
 
-*add_defaults_to_dns_hosts = u8!0x1 to ; add_defaults_to_dns_hosts = u8!0x1*
+*add_defaults_to_dns_hosts = u8!0x1* to *; add_defaults_to_dns_hosts = u8!0x1*
 
 
 
